@@ -1,0 +1,5 @@
+﻿  mareg sort.cpp
+C:\Users\First\Desktop\mareg sort\mareg sort\mareg sort.cpp(95,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\First\Desktop\mareg sort\mareg sort\mareg sort.cpp(97,32): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const int', possible loss of data
+C:\Users\First\Desktop\mareg sort\mareg sort\mareg sort.cpp(100,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  mareg sort.vcxproj -> C:\Users\First\Desktop\mareg sort\x64\Debug\mareg sort.exe
